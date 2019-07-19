@@ -1,0 +1,11 @@
+{
+  "name": "TecnoDeezer",
+  "integrations": {},
+  "proxies": [
+    {
+      "path": "/deezerAPI",
+      "proxyUrl": "http://api.deezer.com/"
+    }
+  ],
+  "type": "ionic-angular"
+}
